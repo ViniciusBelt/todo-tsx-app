@@ -1,3 +1,1 @@
-# Getting Started with Create React App
-
-Lista de tarefas utilizando ReactJS + TypeScript
+# Lista de tarefas utilizando ReactJS + TypeScript
